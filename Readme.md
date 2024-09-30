@@ -18,9 +18,16 @@ docker --version
 ```sh
 git init
 git add .
-git commit -m "spring init"
+git commit -m "spring init" 
 git remote add origin github_address
 git push -u origin master
 git clone https://github.com/hamitmızrak/SpringBoot_Ecommerce
+git pull
+git branch
+git remote 
+git pull origin master 
+git fetch 
+git stash
+git stash apply @stash{0}
 ```
 ---
